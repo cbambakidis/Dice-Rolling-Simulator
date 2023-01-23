@@ -1,5 +1,5 @@
 /*
-Author: Constantine Bambakidis
+Author: Costa Bambakidis
 Title: CS 3100 Project 1, Dice Rolling Simulator
 Date: WSU Spring 2023, January 21
 
