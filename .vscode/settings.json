@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "z:\\DSA\\Project 1",
+            "binaryPath": "z:\\DSA\\Project 1\\project1.exe",
+            "binaryArgs": []
+        }
+    ]
+}
